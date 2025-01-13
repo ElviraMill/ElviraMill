@@ -1,4 +1,4 @@
-## Ai Yong 👋
+## Ai Yong 
 ## Overview
 
 With 9 years of extensive experience in software architecture design and development, I am currently serving as the Technical Director at Zhihua Technology, a company that leads the way in leveraging AI and chemical big data to revolutionize chemical research. Specializing in platform development, intelligent algorithms, and automation solutions, I excel in transforming complex challenges into scalable innovations.
