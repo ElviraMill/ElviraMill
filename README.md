@@ -25,6 +25,7 @@ Yanshan University, Bachelor's Degree
 * Process route optimization
 
 Championed the development of automation technologies, integrating robotics and AI to enhance workflow efficiency.
+
 Played a pivotal role in expanding the company’s service offerings to global markets, establishing Chemical.Ai as a trusted partner in the chemical research industry.
 
 
